@@ -17,15 +17,16 @@ const Location = () => {
           {/* Map Container */}
           <div className="rounded-lg overflow-hidden shadow-elevated border border-border">
             <iframe
-              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d243647.3160092891!2d78.24323194999999!3d17.412608699999996!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb99daeaebd2c7%3A0xae93b78392bafbc2!2sHyderabad%2C%20Telangana!5e0!3m2!1sen!2sin!4v1234567890123!5m2!1sen!2sin"
+              src="https://www.google.com/maps/embed?pb=!1m18!1m12!1m3!1d237.87972126492048!2d78.4440903738141!3d17.456098179641838!2m3!1f0!2f0!3f0!3m2!1i1024!2i768!4f13.1!3m3!1m2!1s0x3bcb90eedd7dbe0f%3A0xecb8fd573f5e7972!2sSri%20Laxmi%20Associates!5e0!3m2!1sen!2sin!4v1759311962124!5m2!1sen!2sin"
               width="100%"
               height="450"
               style={{ border: 0 }}
               allowFullScreen
               loading="lazy"
               referrerPolicy="no-referrer-when-downgrade"
-              title="Sri Lakshmi Associates Location"
-            ></iframe>
+              title="Sri Laxmi Associates Location"
+            />
+
           </div>
 
           {/* Address Details */}

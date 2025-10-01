@@ -35,7 +35,7 @@ const Hero = () => {
           {/* Trust Badge */}
           <div className="inline-block bg-accent px-6 py-3 rounded-full shadow-elevated">
             <p className="text-accent-foreground font-semibold text-lg">
-              20+ Years of Trusted Excellence
+              10+ Years of Trusted Excellence
             </p>
           </div>
 

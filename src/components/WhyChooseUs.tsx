@@ -19,7 +19,7 @@ const WhyChooseUs = () => {
     },
     {
       icon: TrendingUp,
-      title: "20+ Years of Trust",
+      title: "10+ Years of Trust",
       description: "Two decades of excellence and customer satisfaction",
     },
     {

@@ -19,7 +19,7 @@ const Footer = () => {
                 International Couriers and Cargo
               </p>
               <p className="text-muted-foreground text-sm">
-                20+ years of trusted excellence in courier and cargo services.
+                10+ years of trusted excellence in courier and cargo services.
               </p>
             </div>
 
@@ -76,7 +76,8 @@ const Footer = () => {
                     href="tel:+919876543210"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    +91 98765 43210
+                    +91 9553372073
+                    +91 9966440322
                   </a>
                 </li>
                 <li className="flex items-start gap-2 text-sm">
@@ -85,13 +86,13 @@ const Footer = () => {
                     href="mailto:info@srilakshmi.com"
                     className="text-muted-foreground hover:text-primary transition-colors"
                   >
-                    info@srilakshmi.com
+                    vkrsla@gmail.com
                   </a>
                 </li>
                 <li className="flex items-start gap-2 text-sm">
                   <MapPin className="w-4 h-4 text-primary mt-0.5 flex-shrink-0" />
                   <span className="text-muted-foreground">
-                    Hyderabad, Telangana
+                    Sanath Nagar, Hyderabad, Telangana
                   </span>
                 </li>
               </ul>

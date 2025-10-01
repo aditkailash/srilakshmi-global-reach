@@ -20,7 +20,7 @@ const About = () => {
           <div className="grid md:grid-cols-2 gap-12 items-center mb-16">
             <div className="space-y-6 animate-slide-in-left">
               <h3 className="text-3xl font-bold text-foreground">
-                Over 20 Years of Excellence
+                Over 10 Years of Excellence
               </h3>
               <p className="text-lg text-muted-foreground leading-relaxed">
                 Sri Lakshmi Associates has been serving customers with dedication and
@@ -43,7 +43,7 @@ const About = () => {
             <div className="grid grid-cols-2 gap-6">
               <div className="bg-card p-6 rounded-lg shadow-card border border-border hover:shadow-elevated transition-all duration-300">
                 <Shield className="w-12 h-12 text-primary mb-4" />
-                <h4 className="text-3xl font-bold text-foreground mb-2">20+</h4>
+                <h4 className="text-3xl font-bold text-foreground mb-2">10+</h4>
                 <p className="text-muted-foreground">Years of Trust</p>
               </div>
               <div className="bg-card p-6 rounded-lg shadow-card border border-border hover:shadow-elevated transition-all duration-300">
